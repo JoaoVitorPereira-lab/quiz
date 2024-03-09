@@ -9,7 +9,7 @@ export default function App(){
         <div className='home'>
             <div className='quizes'>
                 <MdQuiz size={60} />
-                <p className='txt-quizes'> Quizes </p>
+                <p className='txt-quizes'> Quiz </p>
             </div>
 
             <Link className='teste' to='/perguntasfutebol' style={{ textDecoration: 'none' }}>
