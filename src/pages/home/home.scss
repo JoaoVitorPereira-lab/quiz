@@ -60,3 +60,15 @@ body{
    align-items: center;
    min-height: 100vh;
 }
+
+@media (max-width:650px){
+   .home{
+      width: 300px;
+   }
+}
+
+@media (max-width:500px){
+   .home{
+      width: 100%;
+   }
+}
